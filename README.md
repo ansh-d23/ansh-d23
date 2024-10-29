@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a MERN stack developer from <b>Raipur, India</b> 」
+    「 I am a developer from <b>Raipur, India</b> 」
     <br>
     <br>
   </samp>
@@ -52,13 +52,13 @@
 <p>
  <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/ansh-d23?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Ansh's Contribution Calander" />
 
-  - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/ansh-d23/keyVault)
+  - 🔭 &emsp; I’m currently working on [checkMate](https://github.com/ansh-d23/checkMate)
 
   - 👯 &emsp; Official Collaborator of [SAMAR NITRR](https://github.com/ansh-d23/samar2k22)
 
-  - 🌱 &emsp; I’m currently learning **React, Node.js**
+  - 🌱 &emsp; I’m currently learning **MACHINE LEARNNING**
 
-  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
+  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT/ML**
 
   - 📫 &emsp; How to reach me **anshshrivastav032@gmail.com**
 
