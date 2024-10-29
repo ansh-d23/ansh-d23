@@ -54,7 +54,7 @@
 
   - 🔭 &emsp; I’m currently working on [checkMate](https://github.com/ansh-d23/checkMate)
 
-  - 👯 &emsp; Official Collaborator of [SAMAR NITRR](https://github.com/ansh-d23/samar2k22)
+  - 👯 &emsp; Official Collaborator of [MotorSports NITRR](https://github.com/ansh-d23/MotoSports-24)
 
   - 🌱 &emsp; I’m currently learning **MACHINE LEARNNING**
 
