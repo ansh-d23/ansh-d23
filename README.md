@@ -24,7 +24,7 @@
  <!-- <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ansh-d23" />
  </a> -->
- <a href="https://www.linkedin.com/in/anshdeep-shrivastav-5a9a6b244/" target="_blank">
+ <a href="https://www.linkedin.com/in/anshdeep-shrivastav-5a9a6b2/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansh-d23"/>
  </a>
   
@@ -52,7 +52,7 @@
 <p>
  <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/ansh-d23?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Ansh's Contribution Calander" />
 
-  - 🔭 &emsp; I’m currently working on [checkMate](https://github.com/ansh-d23/checkMate)
+  - 🔭 &emsp; I’m currently working on [keyVault](https://github.com/ansh-d23/keyVault)
 
   - 👯 &emsp; Official Collaborator of [MotorSports NITRR](https://github.com/ansh-d23/MotoSports-24)
 
